@@ -1,0 +1,22 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 5 0 R >> >> /MediaBox [0 0 612 792] /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 393 >>
+stream
+BT /F1 20 Tf 72 700 Td (Divyanshu Sharma - Resume) Tj ET BT /F1 12 Tf 72 660 Td (This is a placeholder resume PDF.) Tj ET BT /F1 12 Tf 72 640 Td (Replace public/resume.pdf with your actual resume.) Tj ET BT /F1 12 Tf 72 610 Td (Email: divyanshu.7711@gmail.com) Tj ET BT /F1 12 Tf 72 590 Td (GitHub: github.com/divyanshu7711) Tj ET BT /F1 12 Tf 72 570 Td (Location: Jaipur, Rajasthan, India) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+trailer
+<< /Root 1 0 R /Size 6 >>
+%%EOF
